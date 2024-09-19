@@ -1,22 +1,25 @@
 # Ai-Folklore-Dance-Planner-AI
-## Summary The project aims to develop an AI-powered tool that generates dance plans for folklore dancing ensembles. It assists choreographers and dance instructors in creating authentic and culturally accurate performances by providing suggested sequences of traditional dance steps and formations. To boost the performances of folklore dancing groups and such.
-Background:
+## Summary
+The project aims to develop an AI-powered tool that generates dance plans for folklore dancing ensembles. It assists choreographers and dance instructors in creating authentic and culturally accurate performances by providing suggested sequences of traditional dance steps and formations. To boost the performances of folklore dancing groups and such.
+
+## Background
 
 Folklore dancing is a vital expression of cultural heritage, embodying the history and traditions of communities worldwide. However, designing dance plans that accurately reflect traditional movements and sequences can be challenging. Many dance groups struggle with limited access to experienced choreographers or comprehensive documentation of folklore dances.
 
-## Problem to Solve: Simplify the creation of authentic folklore dance plans and preserve cultural heritage.
-##Commonality: This issue affects numerous folklore dance groups, especially in regions where traditional knowledge is fading.
+ Problem to Solve: Simplify the creation of authentic folklore dance plans and preserve cultural heritage.
+Commonality: This issue affects numerous folklore dance groups, especially in regions where traditional knowledge is fading.
 Personal Motivation: A passion for preserving cultural traditions and making them accessible to newer generations.
 Importance: Helps in cultural preservation, education, and promotes global appreciation of folklore dances.
 Data and AI Techniques:
 
-## Data Sources:
+Data Sources:
 
 Video recordings of folklore performances.
 Dance notation archives (e.g., Labanotation).
 Music associated with traditional dances.
 Interviews and input from cultural dance experts.
-## AI Techniques:
+
+AI Techniques:
 
 Machine Learning: To learn patterns and sequences from existing dance data.
 Natural Language Processing (NLP): For interpreting textual descriptions of dances.
