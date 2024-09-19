@@ -1,6 +1,7 @@
 # Ai-Folklore-Dance-Planner-AI
+## Summary
 ##Summary
-The project aims to develop an AI-powered tool that generates dance plans for folklore dancing ensembles. It assists choreographers and dance instructors in creating authentic and culturally accurate performances by providing suggested sequences of traditional dance steps and formations.
+The project aims to develop an AI-powered tool that generates dance plans for folklore dancing ensembles. It assists choreographers and dance instructors in creating authentic and culturally accurate performances by providing suggested sequences of traditional dance steps and formations. To boost the performances of folklore dancing groups and such.
 Background:
 
 Folklore dancing is a vital expression of cultural heritage, embodying the history and traditions of communities worldwide. However, designing dance plans that accurately reflect traditional movements and sequences can be challenging. Many dance groups struggle with limited access to experienced choreographers or comprehensive documentation of folklore dances.
